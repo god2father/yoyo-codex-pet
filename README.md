@@ -1,17 +1,23 @@
-# yoyo Codex Pet
+# yoyo Codex 宠物
 
-yoyo is a calm Garfield-like kitten who quietly keeps you company while you code.
+yoyo 是一只眼神淡定的加菲小猫，会安静陪你写代码。
 
-## Install
+## 预览
 
-Copy this folder to your Codex pets directory:
+[点击查看 yoyo 所有反应预览视频](preview-videos/yoyo-all-reactions.mp4)
 
-- Windows: `C:\Users\<your-name>\.codex\pets\yoyo`
-- macOS/Linux: `~/.codex/pets/yoyo`
+<video src="preview-videos/yoyo-all-reactions.mp4" controls width="384"></video>
 
-The folder should contain:
+## 安装
+
+把这个仓库里的文件放到 Codex 的宠物目录：
+
+- Windows：`C:\Users\<你的用户名>\.codex\pets\yoyo`
+- macOS / Linux：`~/.codex/pets/yoyo`
+
+目录里需要有这两个文件：
 
 - `pet.json`
 - `spritesheet.webp`
 
-Restart Codex, then select `yoyo` in settings.
+放好后重启 Codex，然后在设置里选择 `yoyo`。
