@@ -4,9 +4,9 @@ yoyo 是一只眼神淡定的加菲小猫，会安静陪你写代码。
 
 ## 预览
 
-[点击查看带状态文字的 yoyo 所有反应预览视频](preview-videos/yoyo-all-reactions-labeled.mp4)
+![yoyo 所有反应预览](preview-videos/yoyo-all-reactions-labeled.gif)
 
-<video src="preview-videos/yoyo-all-reactions-labeled.mp4" controls width="384"></video>
+[点击查看高清 MP4 版本](preview-videos/yoyo-all-reactions-labeled.mp4)
 
 ## 安装
 
